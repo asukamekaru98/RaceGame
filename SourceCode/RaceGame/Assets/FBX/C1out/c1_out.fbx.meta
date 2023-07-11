@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: c65a63d6e76dc47479218ff41913d6bf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1WALL_mat_wal_09
+    100002: 1WALL_mat_wal_block_03_SUB0
+    100004: 1WALL_mat_wal_block_03_SUB1
+    100006: 1WALL_mat_wal_entop_SUB42_001
+    100008: AC_HOTLAP_START_0
+    100010: AC_START_0
+    100012: AC_START_1
+    100014: AC_START_10
+    100016: AC_START_11
+    100018: AC_START_2
+    100020: AC_START_3
+    100022: AC_START_4
+    100024: AC_START_5
+    100026: AC_START_6
+    100028: AC_START_7
+    100030: AC_START_8
+    100032: AC_START_9
+    100034: AC_TIME_0_L
+    100036: AC_TIME_0_R
+    100038: AC_TIME_1_L
+    100040: AC_TIME_1_R
+    100042: //RootNode
+    100044: geo_grd_01_SUB16
+    100046: geo_keep_out_00_SUB3
+    400000: 1WALL_mat_wal_09
+    400002: 1WALL_mat_wal_block_03_SUB0
+    400004: 1WALL_mat_wal_block_03_SUB1
+    400006: 1WALL_mat_wal_entop_SUB42_001
+    400008: AC_HOTLAP_START_0
+    400010: AC_START_0
+    400012: AC_START_1
+    400014: AC_START_10
+    400016: AC_START_11
+    400018: AC_START_2
+    400020: AC_START_3
+    400022: AC_START_4
+    400024: AC_START_5
+    400026: AC_START_6
+    400028: AC_START_7
+    400030: AC_START_8
+    400032: AC_START_9
+    400034: AC_TIME_0_L
+    400036: AC_TIME_0_R
+    400038: AC_TIME_1_L
+    400040: AC_TIME_1_R
+    400042: //RootNode
+    400044: geo_grd_01_SUB16
+    400046: geo_keep_out_00_SUB3
+    2100000: mat_grd_01
+    2100002: mat_wal_block_01
+    2100004: mat_wal_01
+    2100006: mat_wal_entop
+    2100008: mat_keep_out_00
+    2100010: mat_ac_cubes
+    2300000: 1WALL_mat_wal_09
+    2300002: 1WALL_mat_wal_block_03_SUB0
+    2300004: 1WALL_mat_wal_block_03_SUB1
+    2300006: 1WALL_mat_wal_entop_SUB42_001
+    2300008: AC_HOTLAP_START_0
+    2300010: AC_START_0
+    2300012: AC_START_1
+    2300014: AC_START_10
+    2300016: AC_START_11
+    2300018: AC_START_2
+    2300020: AC_START_3
+    2300022: AC_START_4
+    2300024: AC_START_5
+    2300026: AC_START_6
+    2300028: AC_START_7
+    2300030: AC_START_8
+    2300032: AC_START_9
+    2300034: AC_TIME_0_L
+    2300036: AC_TIME_0_R
+    2300038: AC_TIME_1_L
+    2300040: AC_TIME_1_R
+    2300042: geo_grd_01_SUB16
+    2300044: geo_keep_out_00_SUB3
+    3300000: 1WALL_mat_wal_09
+    3300002: 1WALL_mat_wal_block_03_SUB0
+    3300004: 1WALL_mat_wal_block_03_SUB1
+    3300006: 1WALL_mat_wal_entop_SUB42_001
+    3300008: AC_HOTLAP_START_0
+    3300010: AC_START_0
+    3300012: AC_START_1
+    3300014: AC_START_10
+    3300016: AC_START_11
+    3300018: AC_START_2
+    3300020: AC_START_3
+    3300022: AC_START_4
+    3300024: AC_START_5
+    3300026: AC_START_6
+    3300028: AC_START_7
+    3300030: AC_START_8
+    3300032: AC_START_9
+    3300034: AC_TIME_0_L
+    3300036: AC_TIME_0_R
+    3300038: AC_TIME_1_L
+    3300040: AC_TIME_1_R
+    3300042: geo_grd_01_SUB16
+    3300044: geo_keep_out_00_SUB3
+    4300000: geo_grd_01_SUB16
+    4300002: 1WALL_mat_wal_block_03_SUB1
+    4300004: 1WALL_mat_wal_09
+    4300006: 1WALL_mat_wal_block_03_SUB0
+    4300008: 1WALL_mat_wal_entop_SUB42_001
+    4300010: geo_keep_out_00_SUB3
+    4300012: AC_TIME_0_L
+    4300014: AC_TIME_0_R
+    4300016: AC_HOTLAP_START_0
+    4300018: AC_START_0
+    4300020: AC_START_1
+    4300022: AC_TIME_1_L
+    4300024: AC_START_10
+    4300026: AC_START_11
+    4300028: AC_START_8
+    4300030: AC_START_9
+    4300032: AC_START_6
+    4300034: AC_START_7
+    4300036: AC_TIME_1_R
+    4300038: AC_START_4
+    4300040: AC_START_5
+    4300042: AC_START_2
+    4300044: AC_START_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
